@@ -12,8 +12,7 @@
 
 <p align="center">
   <a href="mailto:rahulbss16@gmail.com">📧 rahulbss16@gmail.com</a> &nbsp;&nbsp;&nbsp;
-  <a href="tel:+918981517126">📱 +91-8981517126</a> &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/your-linkedin">🔗 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/rahul-biswas-79aa4a1a4/">🔗 LinkedIn</a>
 </p>
 
 ---
@@ -91,8 +90,7 @@ Backend Developer with **3+ years** of experience specializing in **Django**, **
 ### 📫 Let's Connect
 
 - **Email**: [rahulbss16@gmail.com](mailto:rahulbss16@gmail.com)
-- **Phone**: [+91-8981517126](tel:+918981517126)
-- **LinkedIn**: [Add your LinkedIn URL]
+- **LinkedIn**: [🔗 LinkedIn](https://www.linkedin.com/in/rahul-biswas-79aa4a1a4/)
 - **Location**: Kolkata, India (Open to Remote)
 
 ---
