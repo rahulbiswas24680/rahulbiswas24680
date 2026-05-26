@@ -1,93 +1,67 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Django-Backend%20Developer-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/3%2B%20Years-Experience-FF6B6B?style=for-the-badge" alt="Experience" />
-  <img src="https://img.shields.io/badge/Open%20to%20Remote-Work-4ECDC4?style=for-the-badge" alt="Remote" />
+  <h1>Hi, I'm Rahul Biswas 👋</h1>
+  <p><strong>Django Backend Developer</strong> | 3+ Years | Crafting Scalable & High-Performance Systems</p>
+  
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Django-Expert-092E20?style=flat-square&logo=django" />
+  <img src="https://img.shields.io/badge/Open%20to%20Remote-4ECDC4?style=flat-square" />
 </div>
-
-<h1 align="center">Hi there, I'm Rahul Biswas 👋</h1>
-
-<p align="center">
-  <strong>Django Backend Developer</strong> | 3+ Years Experience | Building Scalable & High-Performance Systems
-</p>
-
-<p align="center">
-  <a href="mailto:rahulbss16@gmail.com">📧 rahulbss16@gmail.com</a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rahul-biswas-79aa4a1a4/">🔗 LinkedIn</a>
-</p>
 
 ---
 
 ### 🚀 About Me
 
-Backend Developer with **3+ years** of experience specializing in **Django**, **Django REST Framework**, and asynchronous systems. Passionate about designing scalable REST APIs, optimizing performance, and building reliable production applications.
+Passionate Backend Developer with **3+ years** of experience building robust web applications using **Django** and **Django REST Framework**. 
 
-- Built booking platforms and logistics tools handling **10K+ records**
-- Reduced API latency by **40%** and server load by **30%** through optimization
-- Strong expertise in Celery, Redis, Docker, and PostgreSQL
+I specialize in creating **scalable APIs**, async task systems, and performance-optimized solutions that handle real-world load.
 
----
-
-### 🛠️ Technical Skills
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST%20Framework-FF6B6B?style=for-the-badge)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-</div>
-
-**Core Strengths**: REST API Design • Caching • Concurrency • System Design • Asynchronous Processing
+- Built production systems processing **10K+ records**
+- Reduced API latency by **40%** and server costs by **30%**
+- Strong focus on clean code, concurrency, and developer experience
 
 ---
 
-### 💼 Professional Experience
+### 🛠️ Tech Stack
 
-**Backend Developer**  
-**Smilebots - WisdomTree Edutech LLP** *(Jan 2022 – Present)*
-
-- Designed and developed scalable REST APIs using **Django & DRF** for multiple business applications
-- Built async workflows with **Celery** for background tasks and third-party integrations
-- Optimized database queries, indexing & caching → **40% faster APIs** and **30% lower server load**
-- Implemented role-based authentication & access control for **1000+ users**
-- Integrated payment gateways and built internal operational tools
+**Languages & Frameworks**: Python • Django • Django REST Framework  
+**Tools**: Celery • Redis • Docker • PostgreSQL • Nginx • Gunicorn  
+**Cloud**: AWS (EC2, S3) • DigitalOcean  
 
 ---
 
-### 🔥 Featured Project
+### 🔥 Featured Projects
 
-**Event Management Platform**  
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](your-project-link) 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-4ECDC4?style=for-the-badge)](your-demo-link)
+**Event Management Platform** *(Jan 2023 – Jun 2023)*
+- Full-featured platform with ticket booking, Stripe payments, QR check-in & analytics
+- **80% performance improvement** by fixing N+1 queries and using proper indexing
+- Robust concurrent booking system using database locks
+- Async pipeline with Celery + Redis
 
-**Key Achievements**:
-- Reduced dashboard queries from **36 → 1** using `TruncMonth` aggregation + composite indexes
-- Eliminated N+1 queries across **6+ endpoints** → **80% faster** performance
-- Implemented concurrent ticket booking using `select_for_update()` + atomic transactions (prevented over-selling)
-- Built Celery task chains (Stripe → QR Code → PDF → Email) — reduced webhook time from **2s → 50ms**
-- Full infrastructure with **Docker Compose**, PostgreSQL, Redis, Celery, Nginx + Gunicorn on DigitalOcean
+**[→ View Repository](https://github.com/rahulbiswas24680/event-management-platform)**  
+**[→ Live Demo](your-demo-link)**
 
-**Tech Stack**: Python • Django • DRF • PostgreSQL • Redis • Celery • Docker • Stripe API
+*(More projects coming soon...)*
 
 ---
 
-### 📫 Let's Connect
+### 💼 Experience
 
-- **Email**: [rahulbss16@gmail.com](mailto:rahulbss16@gmail.com)
-- **LinkedIn**: [🔗 LinkedIn](https://www.linkedin.com/in/rahul-biswas-79aa4a1a4/)
-- **Location**: Kolkata, India (Open to Remote)
-
----
-
-*Always learning, building, and optimizing systems that matter.*
+**Backend Developer** @ **Smilebots - WisdomTree Edutech LLP** (Jan 2022 – Present)
+- Developing scalable REST APIs and async systems for education-tech products
 
 ---
 
-**Made with ❤️ using Django & Python**
+### 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulbiswas24680&show_icons=true&theme=radical)
+
+---
+
+### 📫 Get in Touch
+
+- **Email**: rahulbss16@gmail.com
+- **LinkedIn**: [linkedin.com/in/rahul-biswas-79aa4a1a4](https://www.linkedin.com/in/rahul-biswas-79aa4a1a4/)
+- **Portfolio**: [portfolio.rahulb.workers.dev](https://portfolio.rahulb.workers.dev/)
+- 📍 Kolkata, India | Open to Remote
+
+---
