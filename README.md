@@ -78,15 +78,6 @@ Backend Developer with **3+ years** of experience specializing in **Django**, **
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" height="180" />
-</div>
-
----
-
 ### 📫 Let's Connect
 
 - **Email**: [rahulbss16@gmail.com](mailto:rahulbss16@gmail.com)
