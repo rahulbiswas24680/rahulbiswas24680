@@ -1,133 +1,104 @@
-Here is a complete GitHub README.md file for you, crafted to match your resume exactly while keeping the modern, visual style you requested.
-```markdown
-# 👋 Hi there, I'm Rahul
+<div align="center">
+  <img src="https://img.shields.io/badge/Django-Backend%20Developer-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/3%2B%20Years-Experience-FF6B6B?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/Open%20to%20Remote-Work-4ECDC4?style=for-the-badge" alt="Remote" />
+</div>
 
-**Experienced Backend Developer** specializing in **Django** and Python. Passionate about building scalable, secure, and high-performance web applications with production-grade async systems.
+<h1 align="center">Hi there, I'm Rahul Biswas 👋</h1>
 
----
+<p align="center">
+  <strong>Django Backend Developer</strong> | 3+ Years Experience | Building Scalable & High-Performance Systems
+</p>
 
-## 🚀 About Me
-
-- **3+ years** building robust backend systems with Django & Django REST Framework (Sep 2022 – Present)
-- Expertise in **PostgreSQL, Redis, Celery, Docker**, and cloud deployment (AWS EC2/S3, DigitalOcean)
-- Strong focus on **API performance optimization**, **concurrency control**, and **clean architecture**
-- Built production systems handling **10K+ records** including booking platforms, payment integrations, and logistics tools
-- Proven wins: **40% faster APIs**, **30% lower server load**, **36→1 query reduction** using aggregation & indexing
-
-📍 Kolkata, India · Open to Remote  
-📧 rahulbss16@gmail.com  
-📞 +91-8981517126
+<p align="center">
+  <a href="mailto:rahulbss16@gmail.com">📧 rahulbss16@gmail.com</a> &nbsp;&nbsp;&nbsp;
+  <a href="tel:+918981517126">📱 +91-8981517126</a> &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/your-linkedin">🔗 LinkedIn</a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 About Me
 
-### Backend
+Backend Developer with **3+ years** of experience specializing in **Django**, **Django REST Framework**, and asynchronous systems. Passionate about designing scalable REST APIs, optimizing performance, and building reliable production applications.
+
+- Built booking platforms and logistics tools handling **10K+ records**
+- Reduced API latency by **40%** and server load by **30%** through optimization
+- Strong expertise in Celery, Redis, Docker, and PostgreSQL
+
+---
+
+### 🛠️ Technical Skills
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-FF6B6B?style=for-the-badge)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Infrastructure & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Concepts:** REST API Design · Caching · Concurrency (select_for_update) · Asynchronous Processing · System Design Basics
+</div>
 
----
-
-## 💼 Experience
-
-### Smilebots-WisdomTree Edutech LLP
-**Django Backend Developer** | *Sep 2022 – Present*
-
-- Designed and built scalable REST APIs using Django & DRF for multiple business applications
-- Handled backend systems processing **10K+ records**, improving performance and reliability
-- Implemented **Celery-based async workflows** for background tasks and third-party integrations
-- Optimized database queries, indexing, and caching → **40% faster APIs**, **30% lower server load**
-- Developed **role-based authentication & access control** for 1000+ users
-- Integrated external APIs and built internal tools for operational workflows
+**Core Strengths**: REST API Design • Caching • Concurrency • System Design • Asynchronous Processing
 
 ---
 
-## 📌 Featured Project
+### 💼 Professional Experience
 
-### 🎟️ Event Management Platform
-*Jan 2023 – Jun 2023* | [GitHub](#) · [Live Demo](#)
+**Backend Developer**  
+**Smilebots - WisdomTree Edutech LLP** *(Jan 2022 – Present)*
 
-Full-stack event ticketing system enabling organizers to create events, manage tickets, and track performance with seamless booking experience.
-
-**⚡ Performance Wins:**
-- Reduced dashboard queries **36 → 1** using `TruncMonth` aggregation + composite indexes
-- Eliminated **N+1 queries** across 6+ endpoints → **80% faster** responses
-- Webhook response time: **2s → 50ms**
-
-**🔒 Concurrency & Reliability:**
-- Prevented ticket over-selling with `select_for_update()` + atomic transactions
-- Designed **idempotent payment workflows** using Stripe webhooks (no double charges)
-- DB locks to prevent race conditions under high load
-
-**⚙️ Async Architecture:**
-- Celery task chain: `Stripe Webhook → QR Code → PDF Invoice → Email Delivery`
-- Redis for caching + background processing
-
-**🧱 Infrastructure:**
-- Docker Compose (PostgreSQL, Redis, Celery worker/beat)
-- Deployment: DigitalOcean + Nginx + Gunicorn + systemd
-
-**🛠️ Tech Stack:** Python · Django · DRF · PostgreSQL · Redis · Celery · Docker · Stripe API
+- Designed and developed scalable REST APIs using **Django & DRF** for multiple business applications
+- Built async workflows with **Celery** for background tasks and third-party integrations
+- Optimized database queries, indexing & caching → **40% faster APIs** and **30% lower server load**
+- Implemented role-based authentication & access control for **1000+ users**
+- Integrated payment gateways and built internal operational tools
 
 ---
 
-## 📊 Performance Metrics (Real Production Data)
+### 🔥 Featured Project
 
-| Optimization | Before | After | Improvement |
-|--------------|--------|-------|--------------|
-| Dashboard API | 36 queries | 1 query | **97% reduction** |
-| API Response Time (avg) | 640ms | 112ms | **82% faster** |
-| Event Detail (cached) | 190ms | 42ms | **78% faster** |
-| Server Load | baseline | -30% | **30% lower** |
+**Event Management Platform**  
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](your-project-link) 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-4ECDC4?style=for-the-badge)](your-demo-link)
 
----
+**Key Achievements**:
+- Reduced dashboard queries from **36 → 1** using `TruncMonth` aggregation + composite indexes
+- Eliminated N+1 queries across **6+ endpoints** → **80% faster** performance
+- Implemented concurrent ticket booking using `select_for_update()` + atomic transactions (prevented over-selling)
+- Built Celery task chains (Stripe → QR Code → PDF → Email) — reduced webhook time from **2s → 50ms**
+- Full infrastructure with **Docker Compose**, PostgreSQL, Redis, Celery, Nginx + Gunicorn on DigitalOcean
 
-## 🎓 Education
-
-**Bachelor of Science**  
-Barasat Government College · West Bengal State University  
-*Aug 2019 – Jul 2022*
+**Tech Stack**: Python • Django • DRF • PostgreSQL • Redis • Celery • Docker • Stripe API
 
 ---
 
-## 📜 Certifications
+### 📊 GitHub Stats
 
-- Build a Backend REST API with Python & Django - Advanced
-
----
-
-## 🌐 Languages
-
-- Hindi · English · Bengali
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" height="180" />
+</div>
 
 ---
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-biswas)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahul-biswas)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulbss16@gmail.com)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul-biswas&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-biswas&layout=compact&theme=radical)
+- **Email**: [rahulbss16@gmail.com](mailto:rahulbss16@gmail.com)
+- **Phone**: [+91-8981517126](tel:+918981517126)
+- **LinkedIn**: [Add your LinkedIn URL]
+- **Location**: Kolkata, India (Open to Remote)
 
 ---
 
-> 💡 *"Building backends that don't just work — they scale."*
-```
+*Always learning, building, and optimizing systems that matter.*
+
+---
+
+**Made with ❤️ using Django & Python**
