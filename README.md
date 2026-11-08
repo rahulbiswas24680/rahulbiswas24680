@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Rahul Biswas 👋</h1>
-  <p><strong>Django Backend Developer</strong> | 3+ Years | Crafting Scalable & High-Performance Systems</p>
+  <p><strong>Django Backend Developer</strong> | 4+ Years | Crafting Scalable & High-Performance Systems</p>
   
   <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/Django-Expert-092E20?style=flat-square&logo=django" />
@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-Passionate Backend Developer with **3+ years** of experience building robust web applications using **Django** and **Django REST Framework**. 
+Passionate Backend Developer with **4+ years** of experience building robust web applications using **Django** and **Django REST Framework**. 
 
 I specialize in creating **scalable APIs**, async task systems, and performance-optimized solutions that handle real-world load.
 
